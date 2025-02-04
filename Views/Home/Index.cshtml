@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-4 col-md-6 col-sm-4">
+            <div class="card m-3 p-4 shadow-lg">
+                <div class="card-title">
+                    <label for="username">Username:</label>
+                    <input id="username" type="text" class="form-control" />
+                </div>
+
+                <div class="card-body ">
+                    <label for="message">Message</label>
+                    <textarea id="message" rows="5" class="form-control" placeholder="Write message here..."></textarea>
+                </div>
+
+                <div class="card-footer text-end">
+                    <button id="sendmessagebtn" class="btn btn-primary">Send Message</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h1 id="chatheader" class="m-3 text-uppercase text-center">Chats will show up here!</h1>
+    <div class="text-center">
+        <ul id="messageslist" class="list-group-flush"></ul>
+    </div>
+    
+   
+   
+</div>
+
+<script src="~/js/signalr.js"></script>
+<script src="~/js/chat.js"></script>

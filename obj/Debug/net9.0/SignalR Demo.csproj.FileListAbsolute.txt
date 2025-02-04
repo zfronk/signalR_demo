@@ -1,0 +1,245 @@
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\appsettings.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.staticwebassets.runtime.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.staticwebassets.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.exe
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.deps.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.runtimeconfig.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\SignalR Demo.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.csproj.AssemblyReference.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.AssemblyInfoInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.AssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.csproj.CoreCompileInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.RazorAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.RazorAssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\scopedcss\bundle\SignalR Demo.styles.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\scopedcss\projectbundle\SignalR Demo.bundle.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\pa1fa281rv-61n19gt1b8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4molu1duaj-bqjiyaj88i.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\izt3y2p46k-c2jlpeoesf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ovxpzef3ar-erw9l3u2r3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ecbdquub33-aexeepp0ev.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3p6kt98n1q-d7shbmvgxk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\6ish48oqz0-ausgxo2sd3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\hvpq0g2ski-k8d9w2qqmf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\onuosnw9pp-cosvhxvwiu.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\32tuqhopsz-ub07r2b239.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xdqzf9bzon-fvhpjtyr6v.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fh1g8djkdr-b7pk76d08c.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ja0wb0fk66-fsbi9cje9m.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\y1k93xm6ua-rzd6atqjts.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\v6hk9rwdfk-ee0r1s7dh0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\7jsk8qh03e-dxx9fxp4il.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ckm57c2lwg-jd9uben2k1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\qw1kvhantf-khv3u5hwcm.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\tk8n4lff3a-r4e9w2rdcm.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4y6w22wy0c-lcd1t2u6c8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\qkz8o3qg0a-c2oey78nd0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gvmkmulg83-tdbxkamptv.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\io12znss59-j5mq2jizvt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ivixpvc4cf-06098lyss8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\8tqzo9zmjh-nvvlpmu67g.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\h8xdi1jk5q-s35ty4nyc5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\7izler78jb-pj5nd1wqec.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\73bcy2l8di-46ein0sx1k.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\tckw8smn1o-v0zj4ognzu.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\atfzabifho-37tfw0ft22.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\0df0fovt0k-hrwsygsryq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xu0eielebj-pk9g2wxc8p.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\0t6fcyp3d1-ft3s53vfgj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4z21e3npoc-6cfz1n2cew.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\z5efmqhlfq-6pdc2jztkx.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\04guuqwccg-493y06b0oq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gdfy0ddygz-iovd86k7lj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\5rrv88ixb9-vr1egmr9el.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4lillrof24-kbrnm935zg.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gluzjlnytt-jj8uyg4cgr.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\nw3rk7fsql-y7v9cxd14o.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\7lyiwluhfv-notf2xhcfb.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ji33vahqkf-h1s4sie4z3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3t4ba1cex9-63fj8s7r0e.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\hrpz73cyr5-0j3bgjxly4.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\nmtrdbt1ik-47otxtyo56.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\d41showmsf-4v8eqarkd7.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\e16nx3w74f-356vix0kms.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\s96z0ia9fr-83jwlth58m.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\kwagiq5z2i-mrlpezrjn3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fp40bxj46y-lzl9nlhx6b.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\amrne8t8b8-ag7o75518u.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xm1u6lf4u7-x0q3zqp4vz.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3sfqa4ujp4-0i3buxo5is.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gwv0mpx1au-o1o13a6vjx.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xxqjnplw3h-ttgo8qnofa.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\q81oixfu0v-2z0ns9nrw6.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\7i0v9ep2te-muycvpuwrr.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\5uz4i5p285-87fc7y1x7t.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\iy9n8xy5x2-mlv21k5csn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\yj1hhfczmj-ay5r7yv90u.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\b2n8z4za0i-ay5r7yv90u.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets\msbuild.SignalR Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets\msbuild.SignalR Demo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets\msbuild.build.SignalR Demo.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SignalR Demo.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SignalR Demo.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR .69584602.Up2Date
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\refint\SignalR Demo.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\SignalR Demo.genruntimeconfig.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\ref\SignalR Demo.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\bin\Debug\net9.0\libman.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\10nbtgvz7b-49hvrsqvxt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\1w46fsjkbl-kgm1xd49p2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\2jxlb69372-m3i9f6419i.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3rk0syu3tt-tezurnafit.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3qzzdeooq1-y4ehrzu4pf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4nj6ac7b5t-50gfvdm9kj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\0fcejrvies-8tqtlgpaj2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\cf3c1419an-6kl2yty19z.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3353x47rmo-ejfrg73s3e.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\cw1tq3fbb5-wjw4sj70vk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ocl7dv9dcw-pmdh6t8x9t.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\1gl7wqqhb5-b7rni8ic81.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\2yqh4godnw-ut6kn81yqy.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\85qkba4rcz-3nqiyby0v3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\473zsr8d69-6kfuyr06n5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\mt2p1d34ir-kkw9sjignn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fhk0cjstf0-0i22bmqjq9.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\jgn4mq8wfg-xx8unqc3md.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ekzjbo4k21-tz93ogt369.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\qp8o7vigbf-ihmjmx7eyn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\19uhgh9i7k-8ac68bz3bp.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\l8oom24vxq-0gf51eht2j.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ezz13o3rsj-j26z4urb8n.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\b2dtpdtj96-u68ri8zv3b.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\8ihrj0y8cf-6moce8shnt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gfa8uvojad-9fvfp9in3h.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4q80ybkuxu-yezryvp8vk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\lb28dx0gxr-hb20fhn76x.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\b2asu7p31r-ckq2xfgr16.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\zo2v7gngj2-i95knzxelw.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\m82u7g5wnl-j0xkbq0ibp.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\a6zkitlfhh-g0sts9r5e9.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\jw0f2mgsw7-ld6kmnoc3j.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\soy9jpqszk-d8otzslac4.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\iz1l93quh8-2sk0oadhhj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\kj3hka0dos-o67h66583b.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gxl2y6p7ya-qo8uel4jh0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gdedkl2q2d-ei8txu2gu5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\y7y59i7g8z-gs9865okj9.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fow5zc7uyr-4td1b65o27.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\kor0v711rh-l2zsu0t8k2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\e8i6ipyblz-6ltx94o9dx.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\1e87zymrah-kr6ietibf5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\kw7bmj2ial-wm03hf5753.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\woefl7862z-u1h2cbgxgv.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\prcbljra50-urhtt9po2z.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xvm8055yjj-h5vhsxq1mn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\kd3z48m7uc-87ku3tdnbd.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\uz4md7rgs7-7f7cj0ok64.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\vdgvm4w6ye-tl6uargkit.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\27nwknhli5-h7rbyhz6vq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\nr7gcljdwn-sr6gixk0oy.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\lukok0kzmt-oje5l519nq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\tgktqdrw1g-56shc8el2h.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\a2az39oxg4-nixi6p8y50.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\t0ewx9wl38-ma47ukxwqy.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ue6iapevg0-5a7g8brsix.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\dzc3uys6jo-0y9d1jwh1k.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\utwcc9oxyy-ftv6h5vdic.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\17kv4523nx-yg9lwwuukt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ycn9x3gd3c-hez02765eg.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\e4j4kz2hf2-dfckt3np07.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\2zwbeqs412-ud8di5mhr4.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ucc9h3j3sz-x2bc0mte99.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\yuv9iftgnx-9m0xddludn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ufw1znoekc-vwi3yp42yq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ioqs0jspyo-488pvtlipw.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\u2gi9j80r1-q77qbu3td6.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\szx35h1c0s-a6y4yjyv3a.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ey27m3j5xr-huyjd4m52z.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\eyvj2uz2vk-w198kn16is.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\mfjb474kv8-s3amqpprzb.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\7cb6yd660x-v5xj6b2xnz.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\roz28kieue-fewzx08bvf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\iv425oef2a-048pl73jql.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ksujd5s5en-bwsb0t7los.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\njv4va9gfg-gky21uxl5q.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\3eke1zbr9j-jgy9d1io4c.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\nuuwgjk8tl-6a0wgboa44.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\t6qjoynjv9-k8gui8v557.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gj0l7gcy2r-x5prj5rcwc.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\rvrma9wqsi-mnp0fs9iti.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\z61d50badh-s8f20ijpnz.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\biqs70nbsn-pbljry6vm7.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\d19g38svbc-air62hzxvy.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\0ibkf38yb2-v15d575jqj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\rhn2b9re6s-j29zmzzcc1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ezu5ti8bvv-pks0e3ieec.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\abku64pm5m-ct2dolimth.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\i4wniqtjxn-4c3hf6oeye.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\hj1rkhyrm7-awpgra8prt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\mccpu07zl2-dle28z7t35.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\ccfyrk4ee8-3kpj2szhr5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\yxvw4tobl7-0g9t97utlu.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\txczyky58x-feqtqkdutq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\m54jlzoq6v-3is16c4wv1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\oeusxcbtah-xieh2eafp3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\foxfrtr4ij-mj2ys6kky6.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4f9swhtir7-nf8k8qjkpz.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\wjripgjvzl-ye90drtw0j.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\33yn4ub3ic-tpzvhjozrh.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\stqgmoskz4-dds51zrwhq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\41qvi47ac3-nc4qj6r4o3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\xspvf7xauv-j765kxlz83.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4r9t568bhm-lhr3judtls.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\qp2j0gbzkb-2kesowpdse.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\h8f57gy7hl-d7yi0w8ssc.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\9tsutlugkv-iks3y6v1bd.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\y8bqtuiz6x-gcunerdpjk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\gtatu9vvfz-mpfoixkklt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\8u5ylizaxp-tqewn4u1p2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\unf9umlwzk-abnsxew03d.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\usipbg2uhy-hr80138c83.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\26u5p8f42z-4z6euj5xfw.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\yp4556cwal-walk15t3qk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\lj84mmvo09-9p0wkwzysj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\2l8peif1xg-wtbuajss8k.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\s9j8n8mddd-xvt3bdfpf8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\03vpr40j4x-zbtm58qwjg.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\icztwjbswd-0ex1h39k45.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\5f83s4h3qe-hewxtsvwqk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\5fzbvi8y6t-kgdegqm0p0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\4bl0ieu7n6-5n8aphlaqt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\mwtxdqc0or-mvbabsdwe2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\tfhnmn2y2q-bl1fv5eq1m.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\jhar19gt7k-yb8ljzw3gf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\vmx852ukaj-eif9o8rwv9.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\8xqbwy7xko-n4j6hd1tag.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\lytv8zi1fw-6cma44fsix.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\6fyrorns9v-1eyptsb9v1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\x11kes0bt8-3hq2sdlu4u.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\olpowh3oa8-wqvntntc89.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\qqq8pfr9rm-kwmd5l5mbg.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\h7qxv85sl8-e6ia7dbky1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\jgy8nmzkhu-6jc1fa70ee.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\nt6qmh12l6-sr6cw0o52v.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\rw4ewhi2sp-cqu3aupeo3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\jxtpw30end-kgm1xd49p2.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fb3vljfjki-m3i9f6419i.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\5cfz3bkt66-tezurnafit.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\erxl94zw7e-v3xm4lqvh5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\eia31c2ejn-5uz2mx4zli.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\fopdhj14e7-q8n3h3gjc5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\at81nlsasr-uw70sjtcu3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\SignalR Demo\obj\Debug\net9.0\compressed\9a13klt078-wudhnxyoxe.gz
