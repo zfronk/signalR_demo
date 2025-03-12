@@ -51,7 +51,7 @@ Follow the steps below to get the SignalR Demo up and running on your local mach
 Clone the repository or download the project files:
 
 ```bash
-git clone https://github.com/yourusername/SignalR_Demo.git
+git clone https://github.com/yourusername/SignalR_demo.git
 ```
 
 ### Build and Run
@@ -113,6 +113,3 @@ For more detailed instructions on setting up SignalR, you can refer to the [offi
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-This README provides a clear overview of your project, how to set it up, and its expected behavior. Let me know if you'd like to add more details or need further customization!
